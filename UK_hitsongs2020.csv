@@ -1,0 +1,51 @@
+,name,album,artist,gender,origin_country,continent,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,release_date,length,popularity
+0,positions,Positions,Ariana Grande,female,USA,North_America,0.737,0.802,0.0,-4.771,1.0,0.0878,0.468,0.0,0.0931,0.682,144.015,172325.0,4.0,2020-10-30,172324.0,99.0
+1,Prisoner (feat. Dua Lipa),Prisoner (feat. Dua Lipa),Miley Cyrus,female,USA,North_America,0.781,0.67,3.0,-3.912,0.0,0.0452,0.0103,0.0,0.0761,0.595,127.99,169333.0,4.0,2020-11-20,169333.0,92.0
+2,Mood (feat. iann dior),Mood (feat. iann dior),24kGoldn,male,USA,North_America,0.7,0.722,7.0,-3.558,0.0,0.0369,0.221,0.0,0.272,0.756,90.989,140526.0,4.0,2020-07-24,140525.0,99.0
+3,Therefore I Am,Therefore I Am,Billie Eilish,female,USA,North_America,0.889,0.34,11.0,-7.773,0.0,0.0697,0.218,0.13,0.055,0.716,94.009,174321.0,4.0,2020-11-12,174321.0,97.0
+4,"Lemonade (feat. Gunna, Don Toliver & NAV)",B4 The Storm,Internet Money,male,USA,North_America,0.8,0.658,1.0,-6.142,0.0,0.079,0.25,0.0,0.111,0.462,140.042,195429.0,4.0,2020-08-28,195428.0,91.0
+5,DÁKITI,DÁKITI,Bad Bunny,male,Puerto Rico,North_America,0.731,0.573,4.0,-10.059,0.0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,205090.0,4.0,2020-10-30,205090.0,99.0
+6,Lonely (with benny blanco),Lonely (with benny blanco),Justin Bieber,male,Canada,North_America,0.631,0.239,11.0,-7.071,0.0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297.0,4.0,2020-10-16,149297.0,95.0
+7,What You Know Bout Love,Shoot For The Stars Aim For The Moon,Pop Smoke,male,USA,North_America,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,160000.0,4.0,2020-07-03,160000.0,96.0
+8,Dynamite,Dynamite (DayTime Version),BTS,male,South Corea,Asia,0.746,0.765,6.0,-4.41,0.0,0.0993,0.0112,0.0,0.0936,0.737,114.044,199054.0,4.0,2020-08-28,199053.0,91.0
+9,Blinding Lights,After Hours,The Weeknd,male,Canada,North_America,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200040.0,4.0,2020-03-20,200040.0,99.0
+10,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),Cardi B,female,USA,North_America,0.935,0.454,1.0,-7.509,1.0,0.375,0.0194,0.0,0.0824,0.357,133.073,187541.0,4.0,2020-08-07,187541.0,95.0
+11,Hawái - Remix,Hawái (Remix),Maluma,male,Colombia,South_America,0.766,0.788,6.0,-3.128,0.0,0.312,0.105,5.81e-06,0.142,0.609,179.984,200482.0,4.0,2020-11-05,200481.0,90.0
+12,Watermelon Sugar,Fine Line,Harry Styles,male,UK,Europe,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,174000.0,4.0,2019-12-13,174000.0,94.0
+13,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,male,USA,North_America,0.823,0.586,6.0,-6.606,0.0,0.2,0.114,0.0,0.193,0.347,125.971,190476.0,4.0,2020-07-03,190476.0,94.0
+14,Holy (feat. Chance The Rapper),Holy,Justin Bieber,male,Canada,North_America,0.673,0.704,6.0,-8.056,1.0,0.36,0.196,0.0,0.0898,0.372,86.919,212093.0,4.0,2020-09-18,212093.0,93.0
+15,you broke me first,you broke me first,Tate McRae,female,Canada,North_America,0.642,0.374,4.0,-9.386,1.0,0.0545,0.786,0.0,0.0906,0.0799,124.099,169266.0,4.0,2020-04-17,169265.0,95.0
+16,No Way Home,No Way Home,Michel Dj,male,Italy,Europe,0.594,0.472,1.0,-13.708,1.0,0.201,0.242,3.34e-06,0.0985,0.234,95.896,150000.0,4.0,2020-05-26,150000.0,34.0
+17,34+35,Positions,Ariana Grande,female,USA,North_America,0.83,0.585,0.0,-6.476,1.0,0.094,0.237,0.0,0.248,0.485,109.978,173711.0,4.0,2020-10-30,173710.0,97.0
+18,Relación - Remix,Relación (Remix),Sech,male,Panamá,North_America,0.793,0.771,5.0,-3.417,1.0,0.0959,0.0337,1.51e-06,0.284,0.835,171.943,247308.0,4.0,2020-09-04,247308.0,93.0
+19,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,DaBaby,male,USA,North_America,0.746,0.69,11.0,-7.956,1.0,0.164,0.247,0.0,0.101,0.497,89.977,181733.0,4.0,2020-04-17,181733.0,94.0
+20,Circle,Circle,Michel Dj,male,Italy,Europe,0.775,0.829,1.0,-3.943,0.0,0.087,0.18,0.000455,0.253,0.342,121.984,145574.0,4.0,2020-05-26,145573.0,40.0
+21,La Nota,La Nota,Manuel Turizo,male,Colombia,South_America,0.736,0.632,11.0,-4.939,0.0,0.0648,0.18,0.0,0.349,0.503,92.03,216107.0,4.0,2020-10-08,216107.0,94.0
+22,Put Your Records On,Put Your Records On,Ritt Momney,male,USA,North_America,0.399,0.491,6.0,-10.778,0.0,0.0538,0.0563,0.00089,0.11,0.151,91.066,210463.0,4.0,2020-04-24,210463.0,92.0
+23,BICHOTA,BICHOTA,KAROL G,female,Colombia,South_America,0.863,0.666,1.0,-4.158,0.0,0.152,0.212,0.000493,0.103,0.838,163.908,178947.0,4.0,2020-10-23,178946.0,98.0
+24,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,female,UK,Europe,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064.0,4.0,2020-03-27,203064.0,87.0
+25,Anger Love,Anger Love,Michel Dj,male,Italy,Europe,0.716,0.811,7.0,-5.728,0.0,0.0397,0.00186,0.378,0.0985,0.515,120.047,196000.0,4.0,2020-09-24,196000.0,43.0
+26,Heather,Kid Krow,Conan Gray,male,USA,North_America,0.357,0.425,5.0,-7.301,1.0,0.0333,0.584,0.0,0.322,0.27,102.078,198040.0,3.0,2020-03-20,198040.0,94.0
+27,pov,Positions,Ariana Grande,female,USA,North_America,0.487,0.534,0.0,-5.664,0.0,0.0555,0.36,0.0,0.1,0.173,131.798,201882.0,4.0,2020-10-30,201882.0,90.0
+28,Love the Way,Love the Way,Michel Dj,male,Italy,Europe,0.664,0.786,8.0,-9.805,1.0,0.0331,0.00655,0.115,0.151,0.187,110.007,161455.0,4.0,2019-06-05,161454.0,32.0
+29,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,male,Canada,North_America,0.761,0.518,0.0,-8.871,1.0,0.134,0.244,3.47e-05,0.107,0.522,133.976,261493.0,4.0,2020-08-14,261492.0,92.0
+30,Out Loud,Out Loud,Michel Dj,male,Italy,Europe,0.681,0.429,3.0,-9.877,0.0,0.0291,0.383,0.0,0.163,0.345,96.018,165000.0,4.0,2020-02-24,165000.0,33.0
+31,Se Te Nota (with Guaynaa),Se Te Nota (with Guaynaa),Lele Pons,female,Venezuela,South_America,0.905,0.686,0.0,-3.152,1.0,0.0664,0.0907,0.0,0.266,0.963,103.013,155825.0,4.0,2020-09-02,155825.0,92.0
+32,La Tóxica,La Tóxica,Farruko,male,Puerto Rico,North_America,0.659,0.701,9.0,-4.107,1.0,0.164,0.0882,0.0,0.0866,0.623,91.97,180520.0,4.0,2020-07-24,180520.0,93.0
+33,Don't start now,Future Nostalgia,Dua Lipa,female,UK,Europe,,,,,,,,,,,,,,,,
+34,Insomnia,Insomnia,Michel Dj,male,Italy,Europe,0.625,0.892,7.0,-3.545,1.0,0.083,0.0228,0.000152,0.399,0.548,120.023,166000.0,4.0,2020-11-19,166000.0,46.0
+35,Wonder,Wonder,Shawn Mendes,male,Canada,North_America,0.333,0.637,1.0,-4.904,0.0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,172693.0,4.0,2020-10-02,172692.0,91.0
+36,Take You Dancing,Take You Dancing,Jason Derulo,male,USA,North_America,0.789,0.711,2.0,-4.248,1.0,0.041,0.0332,0.0,0.0876,0.753,112.985,190306.0,4.0,2020-07-22,190306.0,92.0
+37,Control,Control,Michel Dj,male,Italy,Europe,0.669,0.932,9.0,-3.603,1.0,0.0472,0.00275,0.00147,0.165,0.515,119.924,214000.0,4.0,2020-10-21,214000.0,43.0
+38,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),J Balvin,male,Colombia,,0.571,0.693,6.0,-8.234,0.0,0.0545,0.00536,0.0,0.173,0.393,168.169,232253.0,4.0,2020-07-24,232253.0,92.0
+39,Savage Love (Laxed - Siren Beat),Savage Love (Laxed - Siren Beat),Jawsh 685,male,New Zealand,Oceania,0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,171375.0,4.0,2020-06-11,171374.0,91.0
+40,Ilomilo,Ilomilo,Michel Dj,male,Italy,Europe,0.709,0.878,1.0,-4.213,1.0,0.0633,0.0439,0.00994,0.179,0.54,119.961,187000.0,4.0,2020-08-10,187000.0,49.0
+41,Drankin N Smokin,Pluto x Baby Pluto,Future,male,USA,North_America,0.752,0.658,0.0,-6.297,1.0,0.342,0.0421,0.0,0.0927,0.387,151.951,213520.0,4.0,2020-11-13,213520.0,85.0
+42,Roses - Imanbek Remix,Roses (Imanbek Remix),SAINt JHN,male,USA,North_America,0.785,0.721,8.0,-5.457,1.0,0.0506,0.0149,0.00432,0.285,0.894,121.962,176219.0,4.0,2019-09-13,176218.0,73.0
+43,Midnight Sky,Midnight Sky,Miley Cyrus,female,USA,North_America,0.705,0.814,4.0,-5.466,0.0,0.0346,0.00115,0.00312,0.203,0.259,110.0,223279.0,4.0,2020-08-14,223279.0,88.0
+44,Breaking Me,Breaking Me,Topic,male,Germany,Europe,0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,166794.0,4.0,2019-12-19,166793.0,92.0
+45,Deep Sunset,Deep Sunset,Michael FAY,male,,,0.792,0.912,7.0,-5.873,0.0,0.0811,0.00527,0.0135,0.0557,0.557,124.021,284516.0,4.0,2019-05-01,284516.0,44.0
+46,Golden,Fine Line,Harry Styles,male,UK,Europe,0.448,0.838,4.0,-5.257,0.0,0.0557,0.21,0.000131,0.131,0.254,139.863,208907.0,4.0,2019-12-13,208906.0,91.0
+47,Everything I Wanted,Everything I Wanted,Michel Dj,male,Italy,Europe,0.702,0.74,6.0,-6.576,0.0,0.0364,0.15,0.0377,0.106,0.436,119.986,250000.0,4.0,2020-05-03,250000.0,47.0
+48,The Beach,The Beach,Gold,male,Italy,Europe,0.625,0.49,9.0,-12.447,1.0,0.0432,0.561,0.884,0.146,0.391,180.015,101333.0,4.0,2020-10-27,101333.0,28.0
+49,Heather,Kid krow,Connan Gray,male,USA,North_America,,,,,,,,,,,,,,,,
